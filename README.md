@@ -5,7 +5,10 @@
 - 🤜🤛Suggestions are welcome
 - 📫 deboravitoriabragabacelar@outlook.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deboravitoriaa&theme=discord)](https://github.com/deboravitoria)
+
+[![Débora's GitHub stats](https://github-readme-stats.vercel.app/api?username=deboravitoria&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=deboravitoria&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 deboravitoria/deboravitoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
