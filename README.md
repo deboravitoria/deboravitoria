@@ -6,7 +6,9 @@
 - 📫 deboravitoriabragabacelar@outlook.com
 
 
-[![Débora's GitHub stats](https://github-readme-stats.vercel.app/api?username=deboravitoria&count_private=true&show_icons=true&theme=radical&langs_count )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deboravitoria&layout=compact&hide=c%2B%2B,css)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Débora's GitHub stats](https://github-readme-stats.vercel.app/api?username=deboravitoria&count_private=true&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deboravitoria&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
